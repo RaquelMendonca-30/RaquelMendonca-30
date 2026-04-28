@@ -1,36 +1,28 @@
 # Olá, eu sou Raquel Machado Mendonça 👋
 
-## 💻 Sobre mim
+## 💻 Desenvolvedora focada em automação e soluções reais
 
-Profissional com experiência em rotinas empresariais, contabilidade e tecnologia, focada em desenvolvimento de soluções com Python para automação de processos e ganho de produtividade.
+Atuo criando sistemas internos e automações com Python para reduzir tarefas manuais, otimizar processos e gerar produtividade empresarial.
 
-## 🚀 O que eu faço
+## 🚀 Projetos em destaque
 
-- Automação de tarefas manuais
-- Desenvolvimento de sistemas internos
-- Manipulação de Excel com Python
-- Processamento de dados
-- Soluções para empresas
+### 🔹 RMtech Payroll Automation Platform
+Sistema web inteligente que lê planilhas empresariais e gera arquivos automáticos para Alterdata.
 
-## 📌 Projetos em destaque
+### 🔹 Automação Importação Folha Alterdata
+Conversão de planilhas em TXT compatível com sistema empresarial.
 
-🔹 Automação de Importação Folha Alterdata  
-Conversão automática de planilhas para layout compatível com sistema empresarial.
-
-🔹 Sistema de Controle de Alvarás  
-Gestão de vencimentos e alertas automatizados.
-
-🔹 Ferramentas de produtividade  
-Scripts para reduzir tempo operacional.
+### 🔹 Ferramentas de produtividade
+Scripts e soluções internas para rotinas operacionais.
 
 ## 🛠 Tecnologias
 
-Python | Pandas | Excel | Automação | GitHub
+Python | FastAPI | Pandas | Excel | HTML | CSS | JavaScript | GitHub
 
-## 📈 Objetivo
+## 📈 Objetivo Profissional
 
-Migrar definitivamente para área de tecnologia, atuando com desenvolvimento, automação e soluções inteligentes para negócios.
+Atuar na área de tecnologia com foco em desenvolvimento, automação de processos e criação de soluções inteligentes para negócios.
 
 ## 📫 Contato
 
-Em breve LinkedIn / Portfólio
+LinkedIn em breve
